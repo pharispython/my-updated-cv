@@ -1,0 +1,36 @@
+To host a project on GitHub:
+Sign in to GitHub
+Click on + sign at top right corner of page to open create a repository page
+select public.
+select add a README file
+click Create repository
+
+click AddFile to open file folder
+select and drag files to repository
+In textarea under commit changes...write a description of project
+click on commit changes to upload files
+click on settings tab to open GitHub Pages
+under Source, click None dropdown menu and select main as branch to activate pages
+select save
+project is now ready to be published
+access project using https link generated
+
+to get url for repository:
+find repository
+click on settings
+click on page
+under github pages find url ...click on link or copy and paste on browser
+
+go to https://colorhunt.co/palettes/pastel to get custom beautiful colors
+or search google for css colors on mdn website to use color names instead of hexcode
+browser default styling(default css values) : search for it to help change default style on website especially for horizontal rule...hr
+to learn more about css attributes go to : devdocs.io, go to css to see all things you can change and how
+use pesticide on Chrome to show hidden lines on website...on google chrome, select settings-> extensions-> search pesticide and add to extensions
+click on pesticide-> manage extensions ->allow access to file urls
+click on extensions and pin pesticide
+in-line css overrides internal css which overrides external css
+anatomy of css selector{property: value;}
+use class when you dont mind same name being repeated(group related elements same style)...to apply style to group of elements
+use id when you want a unique id name since it cant be repeated....use to apply style to single element on webpage
+a tag can only have one id whereas it can have more than one class
+<h1 class green blue> means 2 different classes green and blue
